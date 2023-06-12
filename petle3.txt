@@ -1,0 +1,7 @@
+1h 50km
+2h 100km
+3h 150km
+4h 200km
+5h 250km
+6h 300km
+7h 350km
